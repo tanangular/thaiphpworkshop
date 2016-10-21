@@ -1,0 +1,28 @@
+{
+  "name": "voc",
+  "version": "1.0.2",
+  "description": "Voice of Customer Channel for people voting service of krungsriauto",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "krungsriauto",
+    "bank",
+    "voc",
+    "voice",
+    "customer",
+    "service",
+    "web",
+    "mobile",
+    "banking"
+  ],
+  "author": "tanangular",
+  "license": "MIT",
+  "devDependencies": {
+    
+  },
+  "dependencies": {
+   
+  }
+}
